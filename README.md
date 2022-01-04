@@ -15,7 +15,7 @@ This application is made of two parts:
     - is a React.js project located in the [client](src/client) folder.
 * API
     - uses [MySqlConnector](https://github.com/mysql-net/MySqlConnector) in combination with the [Pomelo.EntityFramework.Core v.6.0.0.0](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) and [Entity Framework 6](https://docs.microsoft.com/en-us/ef/) to connect to MariaDB.
-    - is a .NET solution located int the [api](src/api) folder.
+    - is a .NET solution located in the [api](src/api) folder.
 
 This README will walk you through the steps for getting the TODO web application up and running using MariaDB.
 
@@ -96,7 +96,7 @@ This application is made of two parts:
     - is a React.js project located in the [client](src/client) folder.
 * API
     - uses [MySqlConnector](https://github.com/mysql-net/MySqlConnector) in combination with the [Pomelo.EntityFramework.Core v.6.0.0.0](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) and [Entity Framework 6](https://docs.microsoft.com/en-us/ef/) to connect to MariaDB.
-    - is a .NET solution located int the [api](src/api) folder.
+    - is a .NET solution located in the [api](src/api) folder.
 
 The following steps, `a` through `c`, will walk you through the process of configuring, building and running the `api` and `client` applications.
 
